@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Tilinstagram/static/css/main.240e3335.chunk.css",
+    "main.js": "/Tilinstagram/static/js/main.ca2bfd74.chunk.js",
+    "main.js.map": "/Tilinstagram/static/js/main.ca2bfd74.chunk.js.map",
+    "runtime-main.js": "/Tilinstagram/static/js/runtime-main.bb2cef0b.js",
+    "runtime-main.js.map": "/Tilinstagram/static/js/runtime-main.bb2cef0b.js.map",
+    "static/js/2.b9c42abc.chunk.js": "/Tilinstagram/static/js/2.b9c42abc.chunk.js",
+    "static/js/2.b9c42abc.chunk.js.map": "/Tilinstagram/static/js/2.b9c42abc.chunk.js.map",
+    "static/js/3.199ba9f8.chunk.js": "/Tilinstagram/static/js/3.199ba9f8.chunk.js",
+    "static/js/3.199ba9f8.chunk.js.map": "/Tilinstagram/static/js/3.199ba9f8.chunk.js.map",
+    "index.html": "/Tilinstagram/index.html",
+    "static/css/main.240e3335.chunk.css.map": "/Tilinstagram/static/css/main.240e3335.chunk.css.map",
+    "static/js/2.b9c42abc.chunk.js.LICENSE.txt": "/Tilinstagram/static/js/2.b9c42abc.chunk.js.LICENSE.txt",
+    "static/media/TilinIco.8e71ce37.png": "/Tilinstagram/static/media/TilinIco.8e71ce37.png",
+    "static/media/user.40273514.png": "/Tilinstagram/static/media/user.40273514.png",
+    "static/media/user2.35779ab2.jpg": "/Tilinstagram/static/media/user2.35779ab2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb2cef0b.js",
+    "static/js/2.b9c42abc.chunk.js",
+    "static/css/main.240e3335.chunk.css",
+    "static/js/main.ca2bfd74.chunk.js"
+  ]
+}
